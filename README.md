@@ -1,19 +1,29 @@
 <!-- =========================================== -->
-<!-- README for GitHub Profile -->
+<!--   GitHub Profile README for Mahdi Hosseini  -->
 <!-- =========================================== -->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark" alt="GitHub Streak" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2496ED&height=200&section=header&text=Mahdi%20Hosseini&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 # 👋 Hi, I’m Mahdi
 
-A DevOps engineer passionate about Kubernetes, Docker, Linux, Nginx, and monitoring stacks.  
-I enjoy automating, scaling, and optimizing infrastructure.
+🚀 DevOps engineer passionate about Kubernetes, Docker, Linux, Nginx, and modern monitoring stacks.  
+I love automating, scaling, and optimizing infrastructure.
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ DevOps & Cloud
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="60"/>
+</p>
+
+---
+
+## 🛠 Tech Stack (Badges)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -26,29 +36,23 @@ I enjoy automating, scaling, and optimizing infrastructure.
 
 ---
 
-## 📫 Find me on LinkedIn
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-hosseini-7131b0258/)
-
----
-
-## 🔍 What I Do / My Focus
-
-- Deploying and managing containerized applications with **Kubernetes & Docker**  
-- Setting up and optimizing **Linux** servers  
-- Configuring **Nginx** as reverse proxy, load balancer  
-- Building monitoring & observability stacks using tools like **Prometheus**, **Grafana**, **ELK**, **Zabbix**  
-- Automating infrastructure, CI/CD, alerting & logging
-
----
-
 ## 📊 GitHub Stats
+![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" alt="Mahdi's GitHub Stats" />
-</p>
+---
+
+## 🐍 Contribution Snake
+![github contribution grid snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-hosseini-7131b0258/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 ---
 
 *Last updated: 2025-09-28*
-
