@@ -1,10 +1,10 @@
 <!-- =========================================== -->
-<!--   GitHub Profile README for Mahdi Hosseini  -->
+<!--   GitHub Profile README for Mohammadjavad Soleymani  -->
 <!-- =========================================== -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2496ED&height=200&section=header&text=Mahdi%20Hosseini&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2496ED&height=200&section=header&text=Mohammadjavad%20Soleymani&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-# 👋 Hi, I’m Mahdi
+# 👋 Hi, I’m Mohammadjavad
 
 🚀 DevOps engineer passionate about Kubernetes, Docker, Linux, Nginx, and modern monitoring stacks.  
 I love automating, scaling, and optimizing infrastructure.
@@ -50,8 +50,8 @@ I love automating, scaling, and optimizing infrastructure.
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-hosseini-7131b0258/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-javad-soleymani1997/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soleymani.mohammadjavad1377@gmail.com)
 
 ---
 
