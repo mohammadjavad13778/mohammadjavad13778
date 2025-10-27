@@ -6,8 +6,10 @@
 
 # 👋 Hi, I’m Mohammadjavad
 
-🚀 DevOps engineer passionate about Kubernetes, Docker, Linux, Nginx, and modern monitoring stacks.  
-I love automating, scaling, and optimizing infrastructure.
+🚀 Eager DevOps engineer at the start of my career, proficient in Docker, Kubernetes, Gitlab , and Terraform , Ansible.
+Passionate about optimizing development and deployment through automation and problem-solving. Driven by
+continuous learning and innovation, I’m poised to transform technical challenges into opportunities and deliver
+exceptional value to forward-thinking tech teams.
 
 ---
 
@@ -54,5 +56,12 @@ I love automating, scaling, and optimizing infrastructure.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soleymani.mohammadjavad1377@gmail.com)
 
 ---
+## 🌐 Soft skills
+[![Advanced Problem Solving]
+[![Cross-functional Collaboration]
+[![Technical Communication]
+[![Adaptability & Continuous Learning]
+[![Attention to Deta]
 
+--------
 *Last updated: 2025-10-26*
