@@ -57,11 +57,11 @@ exceptional value to forward-thinking tech teams.
 
 ---
 ## 🌐 Soft skills
-[![Advanced Problem Solving]
-[![Cross-functional Collaboration]
-[![Technical Communication]
-[![Adaptability & Continuous Learning]
-[![Attention to Deta]
+Advanced Problem Solving
+Cross-functional Collaboration
+Technical Communication
+Adaptability & Continuous Learning
+Attention to Deta
 
 --------
 *Last updated: 2025-10-26*
