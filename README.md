@@ -6,10 +6,10 @@
 
 # 👋 Hi, I’m Mohammadjavad
 
-🚀 Eager DevOps engineer at the start of my career, proficient in Docker, Kubernetes, Gitlab , and Terraform , Ansible.
-Passionate about optimizing development and deployment through automation and problem-solving. Driven by
-continuous learning and innovation, I’m poised to transform technical challenges into opportunities and deliver
-exceptional value to forward-thinking tech teams.
+🚀DevOps Engineer with hands-on experience in Linux system administration, infrastructure automation, CI/CD
+pipelines, containerization, and observability. Proficient in Docker, Kubernetes, Terraform, Ansible, GitLab CI/CD,
+Prometheus, Grafana, and ELK Stack. Passionate about automating processes, optimizing deployments, and
+building scalable, reliable, and observable systems.
 
 ---
 
